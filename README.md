@@ -1,1 +1,2 @@
-# team3_terraform
+# team3_terraform 
+mkdir vpc
